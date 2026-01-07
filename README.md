@@ -1,1 +1,1 @@
-# Data-Driven-Performance-Analysis-Of-ChelseaFC
+Conducted a multi-model analytics study on Chelsea FC using player clustering, SARIMA-Fourier time-series forecasting, ELO ratings, and regression models to identify squad weaknesses, evaluate performance trends, and propose data-backed transfer targets.
